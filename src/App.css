@@ -21,6 +21,10 @@
 .App-link {
   color: #61dafb;
 }
+.my-active{
+  background-color: blue !important;
+  color: red !important;
+}
 
 @keyframes App-logo-spin {
   from {
